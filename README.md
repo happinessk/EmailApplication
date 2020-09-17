@@ -1,5 +1,7 @@
 # EmailApplication
 
+The goal of this app is to: create email accounts
+
 The application does the following:
 1. Generates an email with the following syntax: firstname.lastname@department.company.com
 2. Determines the department (sales, development, accounting), if none leave blank
